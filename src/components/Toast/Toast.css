@@ -1,0 +1,14 @@
+.event-toast {
+  min-height: 3.7rem;
+  max-height: min-content;
+  align-items: center;
+  justify-content: space-between;
+  padding-right: 1.2rem;
+  border-radius: 8px;
+}
+
+.event-toast__body {
+  padding: 0 0 0 0.6rem;
+  margin: 0;
+  height: 100%;
+}
